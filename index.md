@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Malik's Bio (Bhakkar, Punjab, Pakistan)
 
 You can use the [editor on GitHub](https://github.com/FahadKhan5/MalikZulfiqarSamtia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
